@@ -1,2 +1,3 @@
 # SolidCraft lock files
 .~*.lock
+*.sc.bak
