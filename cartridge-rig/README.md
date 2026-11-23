@@ -32,8 +32,8 @@ No supports needed. All parts in PLA.
 | Item | Qty | Where |
 |---|---|---|
 | 623 bearing (3 × 10 × 4 mm) | 7 | 2 in each throat roller (4), under the bottom ring (3) |
-| M3 threaded rod, cut to ~77 mm | 2 | throat roller axles: threaded into the base, through the roller, through the cap |
-| M3 nut | 2 | on top of the cap, one per rod |
+| M3 threaded rod, 80 mm (no cutting needed) | 2 | throat roller axles: threaded into the base, through the roller, through the cap |
+| M3 nut (dome/acorn nut looks tidier) | 2 | on top of the cap, one per rod |
 | M3 × 6 cap screw | 5 | mount plate into the floor (3), pinhole clamp into the cap (2) |
 | M3 × 8 cap screw | 3 | bottom-ring bearings, from above into the base |
 | M3 × 10 cap screw | 2 | cap into the two cartridge posts |
@@ -57,6 +57,11 @@ All M3 screws self-tap into 2.5 mm holes in the plastic; no other nuts needed.
 - Top ring: snap it over the keeper collar on the underside of the cap. If it
   is too tight, sand the keeper edge lightly.
 - Thumb knobs: press an M3 × 12 screw head into each knob pocket.
+- Rods: screw each rod into the base until its end is flush with the underside
+  of the base, not further. The base floats only 0.3 mm above the body floor,
+  so a rod sticking out below would lift the cartridge. About 3.4 mm of an
+  80 mm rod then sticks out above the nut; that is fine, it can't shade the
+  image.
 - Cartridge: put spools and rollers in, screw rods into the base, lay the cap on
   and fix it with the two M3 × 10 screws into the posts and the rod nuts.
 - Knobs: push the spool shafts up through the floor, felt washer under the
