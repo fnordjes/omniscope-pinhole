@@ -8,6 +8,12 @@ cap with two thumbscrews.
 Design: `cartridge-rig.sc` (SolidCraft). Renders: `cartridge.png` (cartridge
 out of the body), `section.png` (section through the assembly).
 
+![Exploded view](exploded-view.png)
+
+`exploded-view.png` is rendered from `cartridge-rig-exploded.sc`, a copy of the
+design with all hardware modelled and moved apart. That copy is frozen: it does
+not follow parameter changes in `cartridge-rig.sc`.
+
 ## Printed parts
 
 | Part | File | Qty | Print orientation |
