@@ -15,6 +15,10 @@ That copy is frozen: it does not follow parameter changes in `rig-35mm.sc`.
 
 ## How it works
 
+![Film path](film-path.svg)
+
+`film-path.svg`: the film path seen from above, to scale.
+
 - **Two sprockets, geared together.** One sits on each side of the throat (8
   teeth, one turn = 38 mm of film). A middle gear couples them, so both move
   exactly the same length of film: the supply sprocket pushes film into the
