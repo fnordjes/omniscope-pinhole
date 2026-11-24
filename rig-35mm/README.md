@@ -7,6 +7,12 @@ into the cassette.
 Design: `rig-35mm.sc` (SolidCraft). Renders: `rig-35mm.png`, `top-section.png`
 (section at film height), `gear-section.png` (section through the gears).
 
+![Exploded view](exploded-view.png)
+
+`exploded-view.png` is rendered from `rig-35mm-exploded.sc`, a copy of the
+design with all hardware and a reference 135 cassette modelled and moved apart.
+That copy is frozen: it does not follow parameter changes in `rig-35mm.sc`.
+
 ## How it works
 
 - **Two sprockets, geared together.** One sits on each side of the throat (8
