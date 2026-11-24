@@ -14,6 +14,12 @@ out of the body), `section.png` (section through the assembly).
 design with all hardware modelled and moved apart. That copy is frozen: it does
 not follow parameter changes in `cartridge-rig.sc`.
 
+## Film path
+
+![Film path](film-path.svg)
+
+`film-path.svg`: the film path seen from above, to scale.
+
 ## Printed parts
 
 | Part | File | Qty | Print orientation |
